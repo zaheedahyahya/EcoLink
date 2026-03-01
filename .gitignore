@@ -5,26 +5,3 @@
 
 # RStudio files
 .Rproj.user/
-*.Rproj
-
-# R Markdown outputs
-*.html
-*.pdf
-*.docx
-
-# Cache folders
-cache/
-*_cache/
-*_files/
-
-# Data files (optional — if sensitive)
-data/
-*.csv
-*.xlsx
-
-# System files
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
